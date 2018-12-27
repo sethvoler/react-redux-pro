@@ -4,7 +4,7 @@
 
 1. 首先用 react-create-app 创建一个项目，`npm run eject` 将隐藏的 `webpack` 配置文件显示，并根据自己需要做一个配置。删除不必要的文件，更改目录结构；
 2. 目录结构如下图所示：
-![目录结构](./src/common/image/1.jpeg)
+![目录结构](./src/common/images/1.jpeg)
 
 
 
