@@ -1,0 +1,39 @@
+html, body, ul, li {
+  padding: 0;
+  margin: 0;
+}
+.test {
+  width: 375px;
+  height: 375px;
+  background: #333;
+  color: #fff;
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+}
+
+.footerNav {
+  display: flex;
+  background: #eee;
+  height: 88px;
+  line-height: 88px;
+  width: 100vw;
+  justify-content: space-around;
+}
+
+.footerNavItem {
+  width: 25vw;
+  text-align: center;
+}
+
+.activeRoute {
+  color: #f00;
+}

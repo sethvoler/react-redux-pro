@@ -1,0 +1,19 @@
+.wrap {
+  padding: 0px 40px 100px 40px;
+}
+.title {
+  color: #3af;
+  margin: 6px 0;
+}
+.con {
+  font-size: 12px;
+  text-indent: 52px;
+}
+.btn {
+  background: #26f;
+  margin-top: 80px;
+  border-radius: 8px;
+  padding: 6px 40px;
+  color: #fff;
+  outline: none;
+}

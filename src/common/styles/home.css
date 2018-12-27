@@ -1,0 +1,12 @@
+.wrap {
+  width: 750px;
+  text-align: center;
+}
+.btn {
+  background: #26f;
+  margin-top: 80px;
+  border-radius: 8px;
+  padding: 6px 40px;
+  color: #fff;
+  outline: none;
+}
